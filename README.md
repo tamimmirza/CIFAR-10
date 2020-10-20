@@ -11,15 +11,15 @@ Classification of CIFAR-10 dataset using a Deep Convolutional Neural Network.
 
 ### TRAINING (50,000 examples)
 
-1. Accuracy - 
-2. Loss - 
+1. Accuracy - 87.17%
+2. Loss - 0.3812
 
 ### VALIDATION (5,000 examples)
 
-1. Accuracy - 
-2. Loss -  
+1. Accuracy - 77.20%
+2. Loss -  0.7815
 
 ### TESTING (5,000 examples)
 
-1. Accuracy - 
-2. Loss - 
+1. Accuracy - 76.80%
+2. Loss - 0.808
